@@ -18,7 +18,7 @@ const dbURI = "mongodb+srv://mridulpandey5277:mridul@cluster0.iobj3de.mongodb.ne
 mongoose.connect(dbURI)
     .then(() => {
         console.log("Let's go")
-        app.listen(4000);
+        app.listen(process.env.PORT || 4000);
     })
     .catch(err => {
         console.log("ERROR!!")
