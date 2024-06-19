@@ -26,20 +26,26 @@ Tenzies is a fast-paced dice game where you roll ten dice and aim to get them al
 Check out the live demo of the Tenzies Game here.
 https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
-![App Screenshot](https://drive.google.com/file/d/1Om_DqJcmMGOoiRq698P_OsRQb_sRU86U/view?usp=sharing)
-
-![signup]("C:\Users\91735\Desktop\all in one\Pictures\Screenshots\t-register.png")
-
-
-
 
 ![t-register](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/6f5c1872-d797-4cb3-ad0a-967a511330a2)
 
+![login](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/72beca55-70be-4219-b7b2-8fb0b6c49e23)
 
+![sapna-home](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/4e75403d-a371-408a-ad69-410cc8172a42)
+
+![sapna-dice](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/d8106ae2-22e3-423e-9202-ad9cde783008)
+
+![sapna-game](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/362ebae7-37a9-4d47-bfc4-cbed40a23b89)
+
+![sapna-leader](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/b17f2e30-3557-4930-a0be-9ed75e5ce889)
+
+![sapna-profile](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/4d4bd7d9-a4d3-4465-b110-ab9b7c0d6d83)
 
 
 ## Usage
-- **Register or Log In**: Create an account or log in to start playing and track your progress.
+
+- **Register or Log In**: Create an account
+ or log in to start playing and track your progress.
 - **Start a New Game**: Click "Start Game" play a new game.
 - **Roll the Dice**: Roll all the dice and decide which ones to keep by clicking on them.
 - **Freeze Dice**: Keep the dice that match your target number and roll the rest.
