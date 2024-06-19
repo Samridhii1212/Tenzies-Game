@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
 ![App Screenshot](https://drive.google.com/file/d/1Om_DqJcmMGOoiRq698P_OsRQb_sRU86U/view?usp=sharing)
 
-![signup](https://drive.google.com/file/d/1Om_DqJcmMGOoiRq698P_OsRQb_sRU86U/view)
+![signup]("C:\Users\91735\Desktop\all in one\Pictures\Screenshots\t-register.png")
 
 
 
