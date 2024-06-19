@@ -26,7 +26,7 @@ Tenzies is a fast-paced dice game where you roll ten dice and aim to get them al
 Check out the live demo of the Tenzies Game here.
 https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
-
+Register
 ![t-register](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/6f5c1872-d797-4cb3-ad0a-967a511330a2)
 
 ![login](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/72beca55-70be-4219-b7b2-8fb0b6c49e23)
