@@ -33,6 +33,8 @@ https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
 
 
+![t-register](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/6f5c1872-d797-4cb3-ad0a-967a511330a2)
+
 
 
 
