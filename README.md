@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
 ![App Screenshot](https://drive.google.com/file/d/1Om_DqJcmMGOoiRq698P_OsRQb_sRU86U/view?usp=sharing)
 
-![signup](https://user-images.githubusercontent.com/115480641/235290382-414aa929-6d43-45ec-9bfc-5a1eff15f00e.png)
+![signup](https://drive.google.com/file/d/1Om_DqJcmMGOoiRq698P_OsRQb_sRU86U/view)
 
 
 
