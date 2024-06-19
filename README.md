@@ -37,12 +37,16 @@ https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
 ![sapna-game](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/362ebae7-37a9-4d47-bfc4-cbed40a23b89)
 
-![sapna-leader](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/b17f2e30-3557-4930-a0be-9ed75e5ce889)
+![sapna-leader](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/25260229-29cd-4edb-8d28-6381447fadc2)
 
-![sapna-profile](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/4d4bd7d9-a4d3-4465-b110-ab9b7c0d6d83)
+![sapna-profile](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/9b4b6f1b-3ae9-4666-87e7-0f134734f4fb)
+
+
 
 
 ## Usage
+
+
 
 - **Register or Log In**: Create an account
  or log in to start playing and track your progress.
