@@ -9,8 +9,7 @@ Tenzies is a fast-paced dice game where you roll ten dice and aim to get them al
     •Demo
     •Usage
     •Technologies Used
-    •Contributing
-    •Contact
+    
     
 ## Features
 
