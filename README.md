@@ -27,12 +27,12 @@ Check out the live demo of the Tenzies Game here.
 https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
 
-<h3>Register Page</h3>
+<h3>Sign Up Page</h3>
 <p align="center">
   <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/6f5c1872-d797-4cb3-ad0a-967a511330a2" alt="chat1" width="500"/>
 </p>
 
-<h3>Login Page</h3>
+<h3>Sign In Page</h3>
 <p align="center">
   <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/72beca55-70be-4219-b7b2-8fb0b6c49e23" alt="chat1" width="500"/>
 </p>
