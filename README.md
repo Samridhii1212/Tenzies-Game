@@ -26,27 +26,41 @@ Tenzies is a fast-paced dice game where you roll ten dice and aim to get them al
 Check out the live demo of the Tenzies Game here.
 https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
-Register Page
-![t-register](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/6f5c1872-d797-4cb3-ad0a-967a511330a2)
 
-Login Page
-![login](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/72beca55-70be-4219-b7b2-8fb0b6c49e23)
+<h3>Register Page</h3>
+<p align="center">
+  <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/6f5c1872-d797-4cb3-ad0a-967a511330a2" alt="chat1" width="500"/>
+</p>
 
+<h3>Login Page</h3>
+<p align="center">
+  <img src="ttps://github.com/Samridhii1212/Tenzies-Game/assets/115480641/72beca55-70be-4219-b7b2-8fb0b6c49e23" alt="chat1" width="500"/>
+</p>
 
-Home Page
-![sapna-home](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/4e75403d-a371-408a-ad69-410cc8172a42)
+<h3>Home Page</h3>
+<p align="center">
+  <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/4e75403d-a371-408a-ad69-410cc8172a42" alt="chat1" width="500"/>
+</p>
 
-Game Page
-![sapna-dice](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/d8106ae2-22e3-423e-9202-ad9cde783008)
+<h3>Game Page</h3>
+<p align="center">
+  <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/d8106ae2-22e3-423e-9202-ad9cde783008" alt="chat1" width="500"/>
+</p>
 
-![sapna-game](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/362ebae7-37a9-4d47-bfc4-cbed40a23b89)
+<p align="center">
+  <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/362ebae7-37a9-4d47-bfc4-cbed40a23b89" alt="chat1" width="500"/>
+</p>
 
+<h3>LeaderBoard Page</h3>
+<p align="center">
+  <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/25260229-29cd-4edb-8d28-6381447fadc2" alt="chat1" width="500"/>
+</p>
 
-LeaderBoard Page
-![sapna-leader](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/25260229-29cd-4edb-8d28-6381447fadc2)
+<h3>LeaderBoard Page</h3>
+<p align="center">
+  <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/9b4b6f1b-3ae9-4666-87e7-0f134734f4fb" alt="chat1" width="500"/>
+</p>
 
-Self Performance page
-![sapna-profile](https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/9b4b6f1b-3ae9-4666-87e7-0f134734f4fb)
 
 
 
