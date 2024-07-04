@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
 
 <h3>Login Page</h3>
 <p align="center">
-  <img src="ttps://github.com/Samridhii1212/Tenzies-Game/assets/115480641/72beca55-70be-4219-b7b2-8fb0b6c49e23" alt="chat1" width="500"/>
+  <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/72beca55-70be-4219-b7b2-8fb0b6c49e23" alt="chat1" width="500"/>
 </p>
 
 <h3>Home Page</h3>
