@@ -56,7 +56,7 @@ https://drive.google.com/file/d/1XTwTcK39my3zHToC8q_CjEOYFGBCoorM/view
   <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/25260229-29cd-4edb-8d28-6381447fadc2" alt="chat1" width="500"/>
 </p>
 
-<h3>LeaderBoard Page</h3>
+<h3>Self Performance Page</h3>
 <p align="center">
   <img src="https://github.com/Samridhii1212/Tenzies-Game/assets/115480641/9b4b6f1b-3ae9-4666-87e7-0f134734f4fb" alt="chat1" width="500"/>
 </p>
